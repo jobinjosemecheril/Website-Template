@@ -1,0 +1,64 @@
+---
+categories:
+- blog post
+format:
+  html:
+    df-print: paged
+    toc: true
+text: Kerala chicken curry is a delicious and flavorful dish that combines the richness of coconut milk with aromatic spices. Here's a step-by-step guide to preparing this traditional Kerala dish:
+title: Kerala Chicken Curry Recipe
+
+---
+
+Kerala chicken curry is a delicious and flavorful dish that combines the richness of coconut milk with aromatic spices. Here's a step-by-step guide to preparing this traditional Kerala dish:
+
+Ingredients
+Chicken: 1 kg, cut into medium-sized pieces
+Coconut oil: 3 tablespoons
+Onions: 2 large, finely sliced
+Green chilies: 3-4, slit
+Ginger-garlic paste: 2 tablespoons
+Tomatoes: 2 medium, finely chopped
+Curry leaves: 2 sprigs
+Turmeric powder: 1 teaspoon
+Red chili powder: 1 tablespoon
+Coriander powder: 2 tablespoons
+Garam masala: 1 teaspoon
+Black pepper powder: 1 teaspoon
+Coconut milk: 1 cup (thick)
+Water: 1 cup
+Salt: to taste
+Coriander leaves: for garnish
+For the Masala Paste
+Fennel seeds: 1 teaspoon
+Cumin seeds: 1 teaspoon
+Cinnamon stick: 1-inch piece
+Cloves: 4-5
+Cardamom pods: 3-4
+Black peppercorns: 1 teaspoon
+Instructions
+Prepare the Masala Paste:
+
+Dry roast fennel seeds, cumin seeds, cinnamon stick, cloves, cardamom pods, and black peppercorns in a pan until they release their aroma.
+Allow them to cool, then grind them into a fine powder.
+Marinate the Chicken:
+
+In a bowl, mix the chicken pieces with turmeric powder, red chili powder, and salt.
+Let it marinate for at least 30 minutes.
+Cooking the Curry:
+
+Heat coconut oil in a large pan or kadai.
+Add the sliced onions and sauté until they turn golden brown.
+Add the ginger-garlic paste and green chilies, and sauté until the raw smell disappears.
+Add the chopped tomatoes and cook until they become soft and the oil starts to separate.
+Add the prepared masala paste, coriander powder, and garam masala. Sauté for a couple of minutes.
+Add the marinated chicken pieces and mix well to coat them with the masala.
+Add the curry leaves and cook for about 5-7 minutes, stirring occasionally.
+Pour in the water and bring it to a boil. Reduce the heat and let it simmer until the chicken is cooked through.
+Once the chicken is tender, add the thick coconut milk and simmer for another 5-7 minutes.
+Adjust the salt and spices according to taste.
+Garnish and Serve:
+
+Garnish with fresh coriander leaves.
+Serve hot with rice, appam, or chapati.
+Enjoy your delicious Kerala chicken curry!
