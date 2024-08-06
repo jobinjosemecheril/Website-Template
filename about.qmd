@@ -1,5 +1,46 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-I'm a second year Computer Science and Engineering student doing minor in Computational Mathematics with a passion for pushing the boundaries of knowledge in AI. With a strong background in Computer Science, my research focuses on Practive Oriented AI, aiming to contribute to meaningful advancements and solutions.
+#### Jobin Jose
+
+**Assistant Professor (Spl.)**  
+Department of Mathematics  
+Saintgits College of Engineering, Kottayam
+
+---
+
+**Contact Information:**  
+- **Address:** Mecheril (H), Ramapuram Bazar P.O, Ramapuram, Kottayam – 686576
+- **Mobile:** 9446922266
+- **Email:** [jobin.jose@saintgits.org](mailto:jobin.jose@saintgits.org), [jobin22@gmail.com](mailto:jobin22@gmail.com)
+
+---
+
+**Career Objective:**
+
+To work in a challenging environment that provides ample opportunities for learning and growth.
+
+---
+
+**Professional Experience:**
+
+- **Saintgits College of Engineering:**
+  - Assistant Professor – Spl. (2022 onwards)
+  - Assistant Professor – Sr. (2016-2022)
+  - Assistant Professor (2010-2016)
+  - Lecturer (2009-2010)
+- **BVM Holy Cross College, Cherpunkal:**
+  - Lecturer (2006-2009)
+
+---
+
+**Educational Qualification:**
+
+- **SET:** Passed in 2007
+- **B.Ed:** M.G. University, 2006
+- **M.Sc:** M.G. University, 2005
+- **B.Sc:** M.G. University, 2003
+- **Pre Degree:** M.G. University, 2000
+- **S.S.L.C.:** Board of Public Examinations, 1998
+---
