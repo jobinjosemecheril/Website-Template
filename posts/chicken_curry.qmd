@@ -5,7 +5,8 @@ format:
   html:
     df-print: paged
     toc: true
-text: Kerala chicken curry is a delicious and flavorful dish that combines the richness of coconut milk with aromatic spices. Here's a step-by-step guide to preparing this traditional Kerala dish:
+text: 
+
 title: Kerala Chicken Curry Recipe
 
 ---
